@@ -1,0 +1,3 @@
+class Toped
+	
+end 
